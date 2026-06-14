@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/sudu787?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </a>
 &nbsp;
-<a href="https://sudarshan-portfolio-phi.vercel.app">
+<a href="https://sudarshanajoysindhu.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Website-00ff9d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
